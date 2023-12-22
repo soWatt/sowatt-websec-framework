@@ -3,6 +3,7 @@ My framework and checklist for recon, enumeration, and testing web application s
 
 1. Getting started
 - [ ] Read the VDP guidelines fully 
-- [ ] Create a MD page to keep notes on the current VDP. See VDPtemplate.md.
+- [ ] Use the TemplateGen.py Script to create a note taking template for the program. Fill in necessary info
 
- 
+2. Recon
+- [ ] 
