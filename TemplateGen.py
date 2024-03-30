@@ -17,7 +17,7 @@ Any additional notes as you test go here.
     
     return template
 
-comp = input("What Company's VDP are you testing?\n")
+comp = input("Who is the target for this VDP program (Company name)?\n")
 
 markdown_con = generate_md_template(comp)
 
